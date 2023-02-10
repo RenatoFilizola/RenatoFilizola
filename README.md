@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenatoFilizola
 - 👀 I’m interested in Cloud and Technology
-- 🌱 I’m currently learning Azure Administration AZ-104
+- 🌱 I’m currently learning Docker
 - 📫 Please reach me out at www.renatofilizola.com
 
 <!---
